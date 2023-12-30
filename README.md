@@ -1,1 +1,5 @@
-# C-Projects
+# Systems Programming Projects in C:
+# 1. GO FISH GAME 
+# 2. TINY SHELL IMPLEMENTATION
+# 3. MEMORY ALLOCATION
+# 4. SOCKET PROGRAMMING
